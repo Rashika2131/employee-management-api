@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Rashika",
+    "salary": 54000,
+    "status": "Active",
+    "lateFine": 1000
+  },
+  {
+    "id": 2,
+    "name": "Rashika",
+    "salary": 50000,
+    "status": "Active",
+    "lateFine": 0
+  }
+]
